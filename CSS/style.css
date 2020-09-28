@@ -33,3 +33,18 @@ body{
     padding: 0 15px;
     margin: 0 auto;
 }
+
+.header__top-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min height: 122px;
+}
+
+.menu__item{
+    display: inline-block;
+}
+
+.menu__item+ .menu__item{
+    padding: 50px;
+}

@@ -110,7 +110,7 @@ body{
     background-color: #F0F0F4;
     display: flex;
     justify-content: space-around;  
-    align-items: center;;
+    align-items: center;
     min-height: 53px;
 }
 

@@ -6,5 +6,4 @@ $(function(){
         nextArrow : '<button class="banner-section__slider-btn banner-section__slider-btnnext"><img src="images/arrow-right.svg" alt=""></button>',
 
     });
-
 });
